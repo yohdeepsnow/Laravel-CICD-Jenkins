@@ -1,2 +1,3 @@
 https://www.digitalocean.com/community/tutorials/how-to-install-and-set-up-laravel-with-docker-compose-on-ubuntu-20-04-id
 https://medium.com/avmconsulting-blog/automated-ci-cd-with-jenkins-39b21c7c8035
+https://www.sitepoint.com/re-introducing-jenkins-automated-testing-with-pipelines/
